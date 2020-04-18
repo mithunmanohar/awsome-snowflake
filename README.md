@@ -36,6 +36,7 @@ WIP
 [Secure PII in Snowflake’s Cloud Data Warehouse](https://medium.com/hashmapinc/6-steps-to-secure-pii-in-snowflakes-cloud-data-warehouse-f950c35839e3)
 
 ### Infrastructure security
+WIP
 
 
 Feel free to open a PR if you find any new interesting Snowflake resources.
