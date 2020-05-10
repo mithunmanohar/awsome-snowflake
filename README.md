@@ -31,6 +31,9 @@ A curated list of awesome Snowflake resources which I found useful while learnin
 ## Snowflake Integration
 WIP
 
+## Data Migration
+[Redshift to Snowflake Migration](https://tech.instacart.com/migration-from-redshift-to-snowflake-the-path-for-success-4caaac5e3728)
+
 ## Security
 ### Data Security
 [Secure PII in Snowflake’s Cloud Data Warehouse](https://medium.com/hashmapinc/6-steps-to-secure-pii-in-snowflakes-cloud-data-warehouse-f950c35839e3)
