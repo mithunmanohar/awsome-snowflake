@@ -37,13 +37,15 @@ A curated list of awesome Snowflake resources which I found useful while learnin
 ## Security
 ### Data Security
 [Secure PII in Snowflake’s Cloud Data Warehouse](https://medium.com/hashmapinc/6-steps-to-secure-pii-in-snowflakes-cloud-data-warehouse-f950c35839e3)
+
 [Data Security use cases using SnowAlerts](https://community.snowflake.com/s/article/SnowAlert-Data-Driven-Security-Analytics-using-Snowflake-Cloud-Data-Platform)
 
 ### Infrastructure security
 WIP
 
 ### Snowflake Automation and CI/CD
-[Snowflake and DBT integration](https://www.youtube.com/watch?v=5rNquRnNb4E) 
-[Automation and Continuous Delivery with Snowflake using dbt] (https://www.youtube.com/watch?v=snp2hxxWgqk)
+[Snowflake and DBT integration](https://www.youtube.com/watch?v=5rNquRnNb4E)
+
+[Automation and Continuous Delivery with Snowflake using dbt](https://www.youtube.com/watch?v=snp2hxxWgqk)
 
 Feel free to open a PR if you find any new interesting Snowflake resources.
