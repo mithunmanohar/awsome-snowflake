@@ -44,6 +44,6 @@ WIP
 
 ### Snowflake Automation and CI/CD
 [Snowflake and DBT integration](https://www.youtube.com/watch?v=5rNquRnNb4E) 
-[Automation and Continuous Delivery with Snowflake using dbt] https://www.youtube.com/watch?v=snp2hxxWgqk
+[Automation and Continuous Delivery with Snowflake using dbt] (https://www.youtube.com/watch?v=snp2hxxWgqk)
 
 Feel free to open a PR if you find any new interesting Snowflake resources.
